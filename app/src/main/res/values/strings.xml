@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Googol</string>
+    <string name="zero">0</string>
+    <string name="finished">finished</string>
+    <string name="largest">Largest</string>
+    <string name="refresh">refresh</string>
+    <string name="colon">:</string>
 </resources>
